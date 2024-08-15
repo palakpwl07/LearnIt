@@ -1,5 +1,12 @@
 # LearnIt: Your Personalized AI-Enhanced Certification Recommender
 
+<div style="display: flex; align-items: center;">
+  <img src="URL_OF_YOUR_GIF" alt="LearnIt Gif" width="200" style="margin-right: 15px;" />
+  <p>
+    Welcome to **LearnIt**—an AI-powered platform I developed to simplify and enhance the online learning experience by recommending the best certifications tailored to your needs, industry relevancy, and budget. In today's rapidly evolving world, upskilling is more crucial than ever, yet the sheer volume of options available can be overwhelming. That's where LearnIt comes in—your one-stop solution to navigate the complexities of online learning.
+  </p>
+</div>
+
 Welcome to **LearnIt**—an AI-powered platform I developed to simplify and enhance the online learning experience by recommending the best certifications tailored to your needs, industry relevancy, and budget. In today's rapidly evolving world, upskilling is more crucial than ever, yet the sheer volume of options available can be overwhelming. That's where LearnIt comes in—your one-stop solution to navigate the complexities of online learning.
 
 ## Why LearnIt?
